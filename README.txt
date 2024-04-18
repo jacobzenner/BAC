@@ -1,10 +1,6 @@
-********************************************************************************
-*** How to use our BAC website                                               ***
-*** Group: Werpinators                                                       ***
-*** Class: SE 306                                                            ***
-*** Developers: Kyle Thompson, Jacob Zenner                                  ***
-*** Team Members: Kyle Thompson, Jacob Zenner, Carter Hanson, Johnny Pfiefer ***
-********************************************************************************
+**********************************
+*** How to use the BAC website ***
+**********************************
 
 Download Docker: Download docker and open it.
 
